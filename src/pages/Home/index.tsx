@@ -1,7 +1,5 @@
-import Banner from "../../components/Banner"
 import CategoryLinks from "../../components/CategoryLinks"
 import ProductsRow from "../../components/ProductsRow"
-import Brands from '../../components/Brands'
 import { Variants, motion } from "framer-motion"
 function Home() {
   const container :Variants = {
